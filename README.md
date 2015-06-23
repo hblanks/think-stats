@@ -1,4 +1,4 @@
-think-stats-2012
-================
+think-stats
+===========
 
 A public repo for working through Allen Downey's book, *Think Stats*.
