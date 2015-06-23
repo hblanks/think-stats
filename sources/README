@@ -1,0 +1,10 @@
+Consisting of:
+
+    - all data downloaded from
+      http://greenteapress.com/thinkstats/nsfg.html
+    
+    - all code downloaded from
+      http://greenteapress.com/thinkstats/thinkstats.code.zip
+      and decompressed with
+      (mkdir thinkstats; cd thinkstats; unzip ../thinkstats.code.zip)
+
